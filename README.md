@@ -1,4 +1,3 @@
-# castle
 ## SliderTransitionsContainerViewController
 > 支持百分比滑动回调
 
