@@ -1,18 +1,18 @@
 {
   "name": "ToolLibrary",
   "version": "0.1.0",
-  "summary": "A short description of ToolLibrary.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zhangzhongming/ToolLibrary",
+  "summary": "some tool library for develop.",
+  "description": "1、slider transition view controller\n2、realm base manager\n3、toast view\n4、another Tools",
+  "homepage": "https://github.com/CastlePeak/ToolLibrary",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "zhangzhongming": "zhongming.zhang@istuary.com"
+    "zhongming.zhang": "register_chengdu@163.com"
   },
   "source": {
-    "git": "https://github.com/zhangzhongming/ToolLibrary.git",
+    "git": "https://github.com/CastlePeak/ToolLibrary.git",
     "tag": "0.1.0"
   },
   "platforms": {

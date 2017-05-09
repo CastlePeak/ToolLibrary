@@ -1,32 +1,19 @@
-#
-# Be sure to run `pod lib lint ToolLibrary.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
   s.name             = 'ToolLibrary'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ToolLibrary.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.version          = '0.0.1'
+  s.summary          = 'some tool library for develop.'
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    1、slider transition view controller
+    2、realm base manager
+    3、toast view
+    4、another Tools
                        DESC
 
-  s.homepage         = 'https://github.com/zhangzhongming/ToolLibrary'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/CastlePeak/ToolLibrary'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zhangzhongming' => 'zhongming.zhang@istuary.com' }
-  s.source           = { :git => 'https://github.com/zhangzhongming/ToolLibrary.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'zhongming.zhang' => 'register_chengdu@163.com' }
+  s.source           = { :git => 'https://github.com/CastlePeak/ToolLibrary.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
