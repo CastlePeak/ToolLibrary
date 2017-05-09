@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ToolLibrary'
-  s.version          = '0.0.2'
-  s.summary          = 'some tool library for develop.'
+  s.version          = '0.0.3'
+  s.summary          = 'Library for developer.'
 
   s.description      = <<-DESC
     1、slider transition view controller

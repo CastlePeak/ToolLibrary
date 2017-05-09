@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## ToolLibrary
 
-Copyright (c) 2017 zhangzhongming <zhongming.zhang@istuary.com>
+Copyright (c) 2017 zhangzhongming1988 <register_chengdu@163.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

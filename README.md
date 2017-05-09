@@ -1,6 +1,6 @@
 # ToolLibrary
 
-[![CI Status](http://img.shields.io/travis/zhangzhongming/ToolLibrary.svg?style=flat)](https://travis-ci.org/zhangzhongming/ToolLibrary)
+[![CI Status](http://img.shields.io/travis/zhangzhongming1988/ToolLibrary.svg?style=flat)](https://travis-ci.org/zhangzhongming1988/ToolLibrary)
 [![Version](https://img.shields.io/cocoapods/v/ToolLibrary.svg?style=flat)](http://cocoapods.org/pods/ToolLibrary)
 [![License](https://img.shields.io/cocoapods/l/ToolLibrary.svg?style=flat)](http://cocoapods.org/pods/ToolLibrary)
 [![Platform](https://img.shields.io/cocoapods/p/ToolLibrary.svg?style=flat)](http://cocoapods.org/pods/ToolLibrary)
@@ -22,7 +22,7 @@ pod "ToolLibrary"
 
 ## Author
 
-zhongming.zhang, register_chengdu@163.com
+zhangzhongming1988, register_chengdu@163.com
 
 ## License
 

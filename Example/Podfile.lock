@@ -1,7 +1,7 @@
 PODS:
-  - ToolLibrary (0.0.1):
-    - ToolLibrary/UIKitAddition (= 0.0.1)
-  - ToolLibrary/UIKitAddition (0.0.1)
+  - ToolLibrary (0.0.2):
+    - ToolLibrary/UIKitAddition (= 0.0.2)
+  - ToolLibrary/UIKitAddition (0.0.2)
 
 DEPENDENCIES:
   - ToolLibrary (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ToolLibrary: f18a27250c9214ec01089e6d917ef9c791b86457
+  ToolLibrary: 2591c787fac7dc83c083d150e45bf9689e0a7fa4
 
 PODFILE CHECKSUM: c6fa6be807d7b0546ac55ad7c2a9cf202f8ecf0f
 
