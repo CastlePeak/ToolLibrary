@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ToolLibrary'
-  s.version          = '0.0.1'
-  s.summary          = 'some tool library for develop.'
+  s.version          = '0.0.3'
+  s.summary          = 'Library for developer.'
 
   s.description      = <<-DESC
     1、slider transition view controller
@@ -17,7 +17,12 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ToolLibrary/Classes/**/*'
+  s.subspec 'UIKitAddition' do |ui|
+    ui.source_files = 'ToolLibrary/Classes/UIKitAddition/**/*'
+    ui.frameworks = 'UIKit'
+  end
+
+  # s.source_files = 'ToolLibrary/Classes/**/*'
   
   # s.resource_bundles = {
   #   'ToolLibrary' => ['ToolLibrary/Assets/*.png']

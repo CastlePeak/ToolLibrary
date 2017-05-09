@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ToolLibrary
 //
-//  Created by zhangzhongming on 05/09/2017.
-//  Copyright (c) 2017 zhangzhongming. All rights reserved.
+//  Created by zhangzhongming1988 on 05/09/2017.
+//  Copyright (c) 2017 zhangzhongming1988. All rights reserved.
 //
 
 import UIKit
