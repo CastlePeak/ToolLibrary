@@ -22,7 +22,7 @@ pod "ToolLibrary"
 
 ## Author
 
-zhangzhongming, zhongming.zhang@istuary.com
+zhongming.zhang, register_chengdu@163.com
 
 ## License
 
