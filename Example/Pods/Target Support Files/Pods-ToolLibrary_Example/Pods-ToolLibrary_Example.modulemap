@@ -1,0 +1,6 @@
+framework module Pods_ToolLibrary_Example {
+  umbrella header "Pods-ToolLibrary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module ToolLibrary {
+  umbrella header "ToolLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

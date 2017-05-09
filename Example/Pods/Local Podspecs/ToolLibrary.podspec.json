@@ -1,0 +1,22 @@
+{
+  "name": "ToolLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of ToolLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangzhongming/ToolLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangzhongming": "zhongming.zhang@istuary.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangzhongming/ToolLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ToolLibrary/Classes/**/*"
+}
